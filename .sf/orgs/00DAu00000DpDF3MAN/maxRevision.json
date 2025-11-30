@@ -1,0 +1,156 @@
+{
+    "fileVersion": 0,
+    "serverMaxRevisionCounter": 102,
+    "sourceMembers": {
+        "Profile__Admin": {
+            "memberType": "Profile",
+            "serverRevisionCounter": 95,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountHealthController": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 2,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__accountHealthDashboard": {
+            "memberType": "LightningComponentBundle",
+            "serverRevisionCounter": 3,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__accountHealthDashboard/accountHealthDashboard.js": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 4,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__accountHealthDashboard/accountHealthDashboard.html": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 5,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__accountHealthDashboard/accountHealthDashboard.js-meta.xml": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 6,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "FlexiPage__Account_Record_Page": {
+            "memberType": "FlexiPage",
+            "serverRevisionCounter": 56,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "CustomObject__Account": {
+            "memberType": "CustomObject",
+            "serverRevisionCounter": 57,
+            "lastRetrievedFromServer": 57,
+            "isNameObsolete": false
+        },
+        "ApexClass__LeadScorer": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 66,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__LeadScorerTest": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 67,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Flow__Lead_Scoring_Demo": {
+            "memberType": "Flow",
+            "serverRevisionCounter": 68,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountTriggerHandler": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 77,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountTriggerHandlerTest": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 78,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__TriggerHandler": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 79,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexTrigger__AccountTrigger": {
+            "memberType": "ApexTrigger",
+            "serverRevisionCounter": 80,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountDataCleanupBatch": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 89,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountDataCleanupBatchTest": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 90,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountDataCleanupScheduler": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 91,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "CustomField__Account.Billing_Latitude__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 96,
+            "lastRetrievedFromServer": 96,
+            "isNameObsolete": false
+        },
+        "CustomField__Account.Billing_Longitude__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 97,
+            "lastRetrievedFromServer": 97,
+            "isNameObsolete": false
+        },
+        "ApexClass__GeocodeAccountAction": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 98,
+            "lastRetrievedFromServer": 98,
+            "isNameObsolete": false
+        },
+        "ApexClass__GeocodeQueueable": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 99,
+            "lastRetrievedFromServer": 99,
+            "isNameObsolete": false
+        },
+        "ApexClass__GeocodeService": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 100,
+            "lastRetrievedFromServer": 100,
+            "isNameObsolete": false
+        },
+        "ApexClass__GeocodeServiceTest": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 101,
+            "lastRetrievedFromServer": 101,
+            "isNameObsolete": false
+        },
+        "RemoteSiteSetting__Nominatim": {
+            "memberType": "RemoteSiteSetting",
+            "serverRevisionCounter": 102,
+            "lastRetrievedFromServer": 102,
+            "isNameObsolete": false
+        }
+    }
+}

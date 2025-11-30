@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Billing_Latitude__c</fullName>
+    <label>Billing Latitude</label>
+    <description>Latitude coordinate of the billing address obtained through geocoding</description>
+    <type>Number</type>
+    <precision>18</precision>
+    <scale>10</scale>
+    <unique>false</unique>
+    <required>false</required>
+    <externalId>false</externalId>
+</CustomField>
